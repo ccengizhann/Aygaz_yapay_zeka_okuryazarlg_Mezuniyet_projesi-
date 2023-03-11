@@ -1,4 +1,4 @@
-# Aygaz_yapay_zeka_okuryazarlg_Mezuniyet_projesi-
+# Pizza Order System
 
 Pizza Order System
 
