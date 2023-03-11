@@ -1,0 +1,1 @@
+# Aygaz_yapay_zeka_okuryazarlg_Mezuniyet_projesi-
