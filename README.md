@@ -19,6 +19,6 @@
 
 Sipariş Geçmişi Ekranı:
 <h1>  
-  <img src="https://im4.ezgif.com/tmp/ezgif-4-fd385fa521.gi)" width="600px"/>
+  <img src="https://im4.ezgif.com/tmp/ezgif-4-fd385fa521.gif" width="600px"/>
 </h1>
 
